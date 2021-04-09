@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1617989874 source:d:\projects\c++ projects\exercises\exercise_11 - calculator\calculator\main.cpp
+	<iostream>
+	<Windows.h>
+	"Math.h"
+
+1617989306 d:\projects\c++ projects\exercises\exercise_11 - calculator\calculator\math.h
+	<iostream>
+
+1617989402 source:d:\projects\c++ projects\exercises\exercise_11 - calculator\calculator\math.cpp
+	"Math.h"
+	<iostream>
+
